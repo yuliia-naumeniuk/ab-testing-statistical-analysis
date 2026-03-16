@@ -14,4 +14,4 @@ Python, Pandas, SQL, Google BigQuery, Statsmodels, A/B Testing
 - Experiment analysis helps evaluate product changes.
 
 ## Project Notebook
-[Open the analysis in Google Colab]([https://colab.research.google.com/drive/1smJ4Tp5plCfyc3Cakh8VQZ1NoSKHXBla?usp=sharing](https://colab.research.google.com/drive/1_nOnyA6rDYicDWVR_Qq7fDezKBJWm9hn?usp=sharing))
+[Open the analysis in Google Colab]([https://colab.research.google.com/drive/1smJ4Tp5plCfyc3Cakh8VQZ1NoSKHXBla?usp=sharing](https://colab.research.google.com/drive/1_nOnyA6rDYicDWVR_Qq7fDezKBJWm9hn?usp=sharing)
