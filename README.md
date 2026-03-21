@@ -5,7 +5,7 @@ Python project analyzing A/B test results to compare user behavior between contr
 Analyze experiment data to understand how user behavior changes between two groups and check if the differences are statistically significant.
 
 ## Tools
-Python (Pandas, Statsmodels), SQL (BigQuery), Statistical Analysis, A/B Testing
+SQL (BigQuery), Python (Pandas, Statsmodels), Statistical Analysis, A/B Testing
 
 ## Key Insights
 - User behavior differs between the control and test groups.
